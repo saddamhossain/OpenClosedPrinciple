@@ -1,6 +1,5 @@
 ﻿namespace OpenClosedPrinciple;
 
-
 #region Open for Extension
 /* Let's say we are working on an e-commerce application, and we have a requirement to calculate the total cost of an order with different types
  of discounts. We want to ensure that our code follows the Open-Closed Principle.
